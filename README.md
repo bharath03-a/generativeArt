@@ -6,10 +6,6 @@ This is a way for me to get closer to digital art which I am pssionate about. Th
 <img src="images/Mt_shivling.jpeg" width="500px"/>
 
 ## Modified Image - Mt. Shivling
-<img src="images/updated_shivling.png" width="500px"/>
-
-<img src="images/spiral_shivling.png" width="500px"/>
-
 <img src="images/intersect_shivling.png" width="500px"/>
 
 I am using R for implementing this and I am using the following person's work to get me started!
